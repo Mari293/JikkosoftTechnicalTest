@@ -37,7 +37,7 @@ const ToDoFormRedux = () => {
         <input
           type="text"
           value={taskName}
-          onChange={(e) => setTaskName(e.target.value.trim())}
+          onChange={(e) => setTaskName(e.target.value)}
           placeholder="Nombre de la tarea"
           className="border border-gray-300 rounded-md p-2 focus:outline-none focus:ring-2 focus:ring-blue-400 w-full"
         />

@@ -2,7 +2,7 @@ import { Route, Routes, Navigate } from "react-router-dom";
 import { useUserContext } from "./provider/provider";
 import Home from "./components/pages/home/home";
 import Auth from "./components/pages/auth/auth";
-import Footer from "./components/layout/footer/Footer";
+import Footer from "./components/layout/footer/footer";
 import ApiDataTable from "./components/pages/ApiDataTable/ApiDataTable";
 import Redux from "./components/pages/redux/redux";
 
