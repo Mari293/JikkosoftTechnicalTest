@@ -48,6 +48,9 @@ Este proyecto es un **Gestor de Tareas** desarrollado con **React** y **TypeScri
 ```
 
 ---
+## Despliegue
+Puedes ver el proyecto desplegado en este link: [JikkoSoft_ Technical_Test](https://jikkosoft.netlify.app/)
+
 
 ## 🛠 Instalación y Ejecución
 
@@ -78,9 +81,26 @@ _Asegúrate de tener Docker instalado antes de ejecutar este comando._
 
 ---
 
-## 🖼 Capturas de Pantalla
-_Agrega aquí imágenes de la interfaz del proyecto_
+### 🔹 Recomendaciones
+En caso de que el login no funcione correctamente por problemas con Firebase, descarga el proyecto de manera local, realizas el login y si no entra en la url pones "/home" deberia quedar asi: http://localhost:5173/home
 
+
+## 🖼 Capturas de Pantalla
+### Login
+Para poder ingresar estas son las credenciales (Email: test@gmail.com y Password: 123456)
+![Login](./src/assets/Login.jpeg)
+
+### Gestor de Tareas 
+![Gestor de Tareas con Redux](./src/assets/Lista%20de%20tareas%20pendientes.jpeg)
+
+### Gestor de Tareas con alerta
+![Gestor de Tareas con Redux](./src/assets/Alerta%20en%20formulario.jpeg)
+
+### Consumo de API
+![Consumo de API](./src/assets/Consumo%20de%20API.jpeg)
+
+### Gestor de Tareas con Redux
+![Gestor de Tareas con Redux](./src/assets/Formulario%20con%20Redux.jpeg)
 ---
 
 ## 📜 Licencia
